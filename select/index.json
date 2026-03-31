@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "我ら完全無敵のアイドル！！",
+  "base_artist": "B小町",
+  "createdAt": "2026-03-31T05:42:45.670457Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我ら完全無敵のアイドル!!",
+      "artist": "B小町",
+      "has_synced": false,
+      "path": "select/pl_01_我ら完全無敵のアイドル!!_B小町.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "我ら完全無敵のアイドル！！",
+      "artist": "B小町",
+      "has_synced": false,
+      "path": "select/localdb_01_我ら完全無敵のアイドル!!_B小町.txt",
+      "repo_name": "zqevTH6OsOw"
+    }
+  ]
+}
